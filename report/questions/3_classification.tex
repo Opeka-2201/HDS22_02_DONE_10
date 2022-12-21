@@ -1,0 +1,14 @@
+\section{Classification of the test data set}
+To compare the performance of the LDA model and the GLM model, we split the data into a training set (80\% of the data) and a test set (20\% of the data). We used the training set to fit both models, and then used the test set to evaluate their performance.
+\\\\
+We evaluated the performance of the models using the area under the receiver operating characteristic (ROC) curve, which is a measure of the model's ability to distinguish between the two classes. We computed the ROC curves for both models using the \verb|roc()| function from the \verb|pROC| package, and then computed the AUC for each model using the \verb|auc()| function from the \verb|pROC| package.
+\\\\
+Surprisingly, the results showed that the GLM model had a higher AUC on the test set (0.99) compared to the LDA model (0.98). While the AUC is an important measure of model performance, it is not the only factor to consider when choosing a model.
+\\\\
+One potential reason for the higher AUC of the GLM model is that it is more flexible than the LDA model, as it allows for non-linear relationships between the predictor variables and the response variable. However, this flexibility also comes with the risk of overfitting, which can lead to poor generalization to new data.
+\\\\
+On the other hand, the LDA model is a simpler and more interpretable model, as it assumes a linear relationship between the predictor variables and the response variable. While it may have a lower AUC on the test set, it is likely to have better generalization performance on new data.
+\\\\
+Overall, our results suggest that the LDA model may be a better choice for this study compared to the GLM model, despite the higher AUC of the GLM model on the test set. The simpler and more interpretable nature of the LDA model may outweigh the slightly higher performance of the GLM model on the test set. 
+\\\\
+However, the 2 models have almost the same performance, LDA has 5 mistakes and GLM has 6 mistakes on the test set which contains 100 observations.

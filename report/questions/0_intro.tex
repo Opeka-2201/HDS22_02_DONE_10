@@ -1,0 +1,23 @@
+\section{Introduction}
+For this project, we have decided to change our dataset as the one we used for the first project had no binary indicator that was really interesting. The chosen dataset is the Brest Cancer Diagnostic in Wisconsin\footnote{This data can be downloaded here : \href{https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+\%28Diagnostic\%29}{https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+\%28Diagnostic\%29}}. This dataset is a collection of data that has been compiled for the purpose of studying breast cancer. It contains various characteristics of breast cancer tumors, such as radius, texture, perimeter, and smoothness, as well as the diagnosis (malignant or benign). This last variable is the target variable we'll use for this project. It's value is contained in the first column \verb|malignant| and is a binary indicator :
+\begin{itemize}
+    \item 1 : The breast cancer is malignant
+    \item 0 : The breast cancer is beningn
+\end{itemize}
+The other variables contained in the dataset are describing the tumor and are the following :
+\begin{itemize}
+    \item \verb|radius_mean| : mean of distances from center to points on the perimeter
+    \item \verb|texture_mean| : standard deviation of gray-scale values
+    \item \verb|perimeter_mean| : mean size of the core tumor
+    \item \verb|area_mean| : mean area of the core tumor
+    \item \verb|smoothness_mean| : mean of local variation in radius lengths
+    \item \verb|compactness_mean| : mean of $\frac{\text{perimeter}^2}{\text{area} - 1}$
+    \item \verb|concavity_mean| : mean of severity of concave portions of the contour
+    \item \verb|concave points_mean| : mean for number of concave portions of the contour
+    \item \verb|symmetry_mean| : mean of simmilarity between left and right part of the tumor
+    \item \verb|fractal_dimensions_mean| : mean for "coastline approximation" - 1, represents the self-similarity in the tumor's structure
+\end{itemize}
+
+We have randomly sampled 500 lines from the original dataset, which has 569 observations with 357 benign and 212 malignant tumors (62.74\% benign). After sampling, we have 315 benign and 185 malignant tumors in our set (63\%) keeping our ratio benign/malignant fairly similar. 
+\\\\
+Our goal in this project is going to classify the observations of the quantitative variables between the benign and malignant tumors.
