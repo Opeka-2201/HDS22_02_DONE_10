@@ -1,11 +1,11 @@
-PWD /Users/arthurlouis/Downloads/report
+PWD /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report
 INPUT /usr/local/texlive/2019/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/arthurlouis/Downloads/report/main.tex
-OUTPUT /Users/arthurlouis/Downloads/report/main.log
-INPUT /Users/arthurlouis/Downloads/report/template/packages.tex
-INPUT /Users/arthurlouis/Downloads/report/template/packages.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.tex
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.log
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/packages.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/packages.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
@@ -69,8 +69,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/catchfile.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 INPUT /dev/null
-INPUT /Users/arthurlouis/Downloads/report/main.w18
-INPUT /Users/arthurlouis/Downloads/report/main.w18
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.w18
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.w18
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -272,9 +272,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT /Users/arthurlouis/Downloads/report/main.aux
-INPUT /Users/arthurlouis/Downloads/report/main.aux
-OUTPUT /Users/arthurlouis/Downloads/report/main.aux
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux
 INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -287,18 +287,24 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT /Users/arthurlouis/Downloads/report/main.out
-OUTPUT /Users/arthurlouis/Downloads/report/main.pdf
-INPUT /Users/arthurlouis/Downloads/report/template/titlepage.tex
-INPUT /Users/arthurlouis/Downloads/report/template/titlepage.tex
-INPUT /Users/arthurlouis/Downloads/report/figs/facsa.png
-INPUT /Users/arthurlouis/Downloads/report/figs/facsa.png
-INPUT /Users/arthurlouis/Downloads/report/figs/facsa.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/titlepage.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/titlepage.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/facsa.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/facsa.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/facsa.png
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/eccc1095.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/eccc1440.tfm
-INPUT /Users/arthurlouis/Downloads/report/figs/breast.png
-INPUT /Users/arthurlouis/Downloads/report/figs/breast.png
-INPUT /Users/arthurlouis/Downloads/report/figs/breast.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/breast.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/breast.png
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/breast.png
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/eccc1728.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
@@ -337,11 +343,18 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
-OUTPUT /Users/arthurlouis/Downloads/report/main.toc
-OUTPUT /Users/arthurlouis/Downloads/report/main.lof
-OUTPUT /Users/arthurlouis/Downloads/report/main.lot
-INPUT /Users/arthurlouis/Downloads/report/questions/0_intro.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/0_intro.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.toc
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.toc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.toc
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lof
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lof
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lof
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lot
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lot
+OUTPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lot
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/0_intro.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/0_intro.tex
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
@@ -365,35 +378,39 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
-INPUT /Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/1_preliminaries.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/1_preliminaries.tex
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
-INPUT /Users/arthurlouis/Downloads/report/questions/tables/q1_mean.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/tables/q1_mean.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/tables/q1_std.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/tables/q1_std.tex
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_boxplot.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_boxplot.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_histogram.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_histogram.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_correlation_malignant.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_correlation_malignant.svg
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_mean.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_mean.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_std.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_std.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_boxplot.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_boxplot.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_boxplot.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_histogram.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_histogram.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_histogram.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_malignant.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_malignant.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_malignant.pdf
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_correlation_benign.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_correlation_benign.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_pairs.pdf
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_pairs.pdf
-INPUT /Users/arthurlouis/Downloads/report/figs/q1_pairs.pdf
-INPUT /Users/arthurlouis/Downloads/report/questions/2_preparation.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/2_preparation.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm
-INPUT /Users/arthurlouis/Downloads/report/figs/q2_roc.svg
-INPUT /Users/arthurlouis/Downloads/report/figs/q2_roc.svg
-INPUT /Users/arthurlouis/Downloads/report/questions/3_classification.tex
-INPUT /Users/arthurlouis/Downloads/report/questions/3_classification.tex
-INPUT /Users/arthurlouis/Downloads/report/main.aux
-INPUT /Users/arthurlouis/Downloads/report/main.out
-INPUT /Users/arthurlouis/Downloads/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_benign.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_benign.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_benign.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_pairs.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_pairs.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_pairs.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/2_preparation.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/2_preparation.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q2_roc.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q2_roc.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q2_roc.pdf
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/3_classification.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/3_classification.tex
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
+INPUT /Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb

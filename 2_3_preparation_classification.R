@@ -114,7 +114,7 @@ auc_logistic <- auc(roc_logistic)
 auc_lda <- auc(roc_lda)
 
 # Plot the ROC curve
-svg("figs/q2_roc.svg")
+pdf("figs/q2_roc.pdf")
 plot(roc_logistic, col = "red", main = "ROC Curve")
 par(new = TRUE)
 plot(roc_lda, col = "blue", add = TRUE)

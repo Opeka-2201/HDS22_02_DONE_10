@@ -28,7 +28,7 @@ It is important to select the relevant column to have a good model. In our case,
 
 This gives us the following model :
 \begin{align*}
-    \text{pred} &= g^{-1}\bold{X}\beta\\
+    \text{pred} &= g^{-1}\mathbf{X}\beta\\
     &=g^{-1}(-18.1368587 + 1.3499735 \times \text{radius\_mean} + 0.4830149 \times \text{texture\_mean}\\
     &+ ... + 48.8811318 \times \text{fractal\_dimension\_mean})
 \end{align*}
@@ -90,7 +90,7 @@ We chose these two column by looking at the figure \ref{fig:scatterplot} and loo
 By computing the scores of each of the 2 chosen models thanks to the \verb|pROC| package, we get these ROC curves :
 \begin{figure}[H]
     \centering
-    \includesvg[width=0.5\textwidth]{figs/q2_roc.svg}
+    \includegraphics[width=0.5\textwidth]{figs/q2_roc.pdf}
     \caption{ROC curves}
     \label{fig:roc}
 \end{figure}

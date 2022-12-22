@@ -1,6 +1,5 @@
 library(stats)
 library(corrplot)
-library(rsvg)
 library(xtable)
 library(ggplot2)
 
@@ -23,32 +22,32 @@ pairs(explanatory_vars, col=colors)
 dev.off()
 
 # boxplot of the two groups for each variable
-svg("figs/q1_boxplot.svg")
+pdf("figs/q1_boxplot.pdf")
 par(mfrow = c(2, 5))
-for (i in 1:ncol(explanatory_vars)) {
+for (i in seq_len(ncol(explanatory_vars))) {
   boxplot(explanatory_vars[,i] ~ binary_indicator, col = colors, main = colnames(explanatory_vars)[i])
 }
 dev.off()
 
 # histogram of the two groups for each variable as ratio with the number of observation
-svg("figs/q1_histogram.svg")
+pdf("figs/q1_histogram.pdf")
 par(mfrow = c(3, 4))
-for (i in 1:ncol(explanatory_vars)) {
+for (i in seq_len(ncol(explanatory_vars))) {
   hist(benign[,i], col = "green", main = colnames(explanatory_vars)[i], xlim = range(explanatory_vars[,i]), breaks = 20, freq = FALSE, xlab = colnames(explanatory_vars)[i])
   hist(malignant[,i], col = "red", add = TRUE, xlim = range(explanatory_vars[,i]), breaks = 20, freq = FALSE, xlab = colnames(explanatory_vars)[i])
 }
 dev.off()
 
 # plot correlation matrix
-svg("figs/q1_correlation.svg")
+pdf("figs/q1_correlation.pdf")
 corrplot(cor(explanatory_vars), method = "circle", type = "upper", order = "hclust", tl.col = "black", tl.srt = 45)
 dev.off()
 
-svg("figs/q1_correlation_benign.svg")
+pdf("figs/q1_correlation_benign.pdf")
 corrplot(cor(benign), method = "circle", type = "upper", order = "hclust", tl.col = "black", tl.srt = 45)
 dev.off()
 
-svg("figs/q1_correlation_malignant.svg")
+pdf("figs/q1_correlation_malignant.pdf")
 corrplot(cor(malignant), method = "circle", type = "upper", order = "hclust", tl.col = "black", tl.srt = 45)
 dev.off()
 
@@ -56,7 +55,7 @@ dev.off()
 mean_table <- matrix(NA, ncol(explanatory_vars), 2)
 colnames(mean_table) <- c("benign", "malignant")
 rownames(mean_table) <- colnames(explanatory_vars)
-for (i in 1:ncol(explanatory_vars)) {
+for (i in seq_len(ncol(explanatory_vars))) {
   mean_table[i, 1] <- mean(benign[,i])
   mean_table[i, 2] <- mean(malignant[,i])
 }
@@ -66,7 +65,7 @@ for (i in 1:ncol(explanatory_vars)) {
 var_table <- matrix(NA, ncol(explanatory_vars), 2)
 colnames(var_table) <- c("benign", "malignant")
 rownames(var_table) <- colnames(explanatory_vars)
-for (i in 1:ncol(explanatory_vars)) {
+for (i in seq_len(ncol(explanatory_vars))) {
   var_table[i, 1] <- var(benign[,i])
   var_table[i, 2] <- var(malignant[,i])
 }

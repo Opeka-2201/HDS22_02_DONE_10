@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.3)  21 DEC 2022 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.3)  22 DEC 2022 09:21
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/arthurlouis/Downloads/report/main.tex
-(/Users/arthurlouis/Downloads/report/main.tex
+**"/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.tex"
+(/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.tex
 LaTeX2e <2018-12-01>
-(/Users/arthurlouis/Downloads/report/template/packages.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+(/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/packages.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
@@ -149,7 +149,7 @@ Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 ))
 runsystem(uname -s > "main.w18")...executed.
 
- (/Users/arthurlouis/Downloads/report/main.w18)
+ (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.w18)
 runsystem(rm -- "main.w18")...executed.
 
 )) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -743,12 +743,12 @@ Package: babel 2019/05/04 3.31 The Babel package
 File: switch.def 2019/05/04 3.31 Babel switching mechanism
 ) (/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
- (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2019/05/04 3.31 Babel common definitions
 \babel@savecnt=\count312
 \U@D=\dimen281
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count313
 )
 \l@canadian = a dialect from \language\l@american 
@@ -806,7 +806,7 @@ LaTeX Warning: Command \@footnotemark  has changed.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box75
-)) (/Users/arthurlouis/Downloads/report/main.aux)
+)) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -867,6 +867,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
+ (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -905,13 +906,13 @@ LaTeX Info: Redefining \nameref on input line 4.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/Users/arthurlouis/Downloads/report/template/titlepage.tex
-<figs/facsa.png, id=7, 438.63875pt x 115.43124pt>
+(/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/template/titlepage.tex
+<figs/facsa.png, id=51, 438.63875pt x 115.43124pt>
 File: figs/facsa.png Graphic file (type png)
 <use figs/facsa.png>
 Package pdftex.def Info: figs/facsa.png  used on input line 20.
 (pdftex.def)             Requested size: 307.04501pt x 80.80132pt.
-<figs/breast.png, id=8, 1927.2pt x 1925.1925pt>
+<figs/breast.png, id=52, 1927.2pt x 1925.1925pt>
 File: figs/breast.png Graphic file (type png)
 <use figs/breast.png>
 Package pdftex.def Info: figs/breast.png  used on input line 22.
@@ -925,13 +926,15 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/arthurlouis/Downloads/report/figs/breast.png> </Users/arthurlouis/Downloads/report/figs/facsa.png>]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/breast.png> </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/facsa.png>] (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.toc)
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
+ (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lof)
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
+ (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.lot)
 \tf@lot=\write10
 \openout10 = `main.lot'.
 
@@ -939,7 +942,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.52 \setcounter
-                {page}{1} [1]) (/Users/arthurlouis/Downloads/report/questions/0_intro.tex
+                {page}{1} [1]) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/0_intro.tex
 Overfull \hbox (43.02518pt too wide) in paragraph at lines 2--2
 [][][]\T1/cmr/m/n/9 This data can be down-loaded here : []https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29[]| 
  []
@@ -954,185 +957,48 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
-) (/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex
+) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/1_preliminaries.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--1
 
  []
 
-(/Users/arthurlouis/Downloads/report/questions/tables/q1_mean.tex) (/Users/arthurlouis/Downloads/report/questions/tables/q1_std.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 13.59999pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+(/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_mean.tex) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/tables/q1_std.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \end{table}
-                 [1])
+l.2 
+     [1])
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
-Package svg Info: Calling Inkscape on input line 20.
-runsystem(inkscape -z -D --export-latex  --file="figs/q1_boxplot.svg" --export-pdf="q1_boxplot_svg-tex.pdf" )...executed.
-
-
-Package svg Warning: The export with Inkscape failed for file
-(svg)                `figs/q1_boxplot.svg'
-(svg)                Troubleshooting: Please check in the log file how
-(svg)                the invocation of Inkscape took place and try to
-(svg)                execute it yourself in the terminal on input line 20.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:20: Package svg Error: File `q1_boxplot_svg-tex.pdf' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...[width=.55\textwidth]{figs/q1_boxplot.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_boxplot_svg-tex.pdf'
-although `figs/q1_boxplot.svg' was found.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:20: Package svg Error: File `q1_boxplot_svg-tex.pdf_tex' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...[width=.55\textwidth]{figs/q1_boxplot.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_boxplot_svg-tex.pdf_tex'
-although `figs/q1_boxplot.svg' was found.
-
+<figs/q1_boxplot.pdf, id=118, 505.89pt x 505.89pt>
+File: figs/q1_boxplot.pdf Graphic file (type pdf)
+<use figs/q1_boxplot.pdf>
+Package pdftex.def Info: figs/q1_boxplot.pdf  used on input line 20.
+(pdftex.def)             Requested size: 259.6186pt x 259.62152pt.
 [2]
-Package svg Info: Calling Inkscape on input line 27.
-runsystem(inkscape -z -D --export-latex  --file="figs/q1_histogram.svg" --export-pdf="q1_histogram_svg-tex.pdf" )...executed.
-
-
-
-Package svg Warning: The export with Inkscape failed for file
-(svg)                `figs/q1_histogram.svg'
-(svg)                Troubleshooting: Please check in the log file how
-(svg)                the invocation of Inkscape took place and try to
-(svg)                execute it yourself in the terminal on input line 27.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:27: Package svg Error: File `q1_histogram_svg-tex.pdf' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 ...idth=.55\textwidth]{figs/q1_histogram.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_histogram_svg-tex.pdf'
-although `figs/q1_histogram.svg' was found.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:27: Package svg Error: File `q1_histogram_svg-tex.pdf_tex' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 ...idth=.55\textwidth]{figs/q1_histogram.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_histogram_svg-tex.pdf_tex'
-although `figs/q1_histogram.svg' was found.
-
-[3]
-Package svg Info: Calling Inkscape on input line 40.
-runsystem(inkscape -z -D --export-latex  --file="figs/q1_correlation_malignant.svg" --export-pdf="q1_correlation_malignant_svg-tex.pdf" )...executed.
-
-
-
-Package svg Warning: The export with Inkscape failed for file
-(svg)                `figs/q1_correlation_malignant.svg'
-(svg)                Troubleshooting: Please check in the log file how
-(svg)                the invocation of Inkscape took place and try to
-(svg)                execute it yourself in the terminal on input line 40.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:40: Package svg Error: File `q1_correlation_malignant_svg-tex.pdf' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...ewidth]{figs/q1_correlation_malignant.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_correlation_malignant_svg-tex.pdf'
-although `figs/q1_correlation_malignant.svg' was found.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:40: Package svg Error: File `q1_correlation_malignant_svg-tex.pdf_tex' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...ewidth]{figs/q1_correlation_malignant.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_correlation_malignant_svg-tex.pdf_tex'
-although `figs/q1_correlation_malignant.svg' was found.
-
-Package svg Info: Calling Inkscape on input line 45.
-runsystem(inkscape -z -D --export-latex  --file="figs/q1_correlation_benign.svg" --export-pdf="q1_correlation_benign_svg-tex.pdf" )...executed.
-
-
-Package svg Warning: The export with Inkscape failed for file
-(svg)                `figs/q1_correlation_benign.svg'
-(svg)                Troubleshooting: Please check in the log file how
-(svg)                the invocation of Inkscape took place and try to
-(svg)                execute it yourself in the terminal on input line 45.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:45: Package svg Error: File `q1_correlation_benign_svg-tex.pdf' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...linewidth]{figs/q1_correlation_benign.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_correlation_benign_svg-tex.pdf'
-although `figs/q1_correlation_benign.svg' was found.
-
-
-/Users/arthurlouis/Downloads/report/questions/1_preliminaries.tex:45: Package svg Error: File `q1_correlation_benign_svg-tex.pdf_tex' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...linewidth]{figs/q1_correlation_benign.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q1_correlation_benign_svg-tex.pdf_tex'
-although `figs/q1_correlation_benign.svg' was found.
-
-<figs/q1_pairs.pdf, id=63, 505.89pt x 505.89pt>
+<figs/q1_histogram.pdf, id=126, 505.89pt x 505.89pt>
+File: figs/q1_histogram.pdf Graphic file (type pdf)
+<use figs/q1_histogram.pdf>
+Package pdftex.def Info: figs/q1_histogram.pdf  used on input line 27.
+(pdftex.def)             Requested size: 259.6186pt x 259.62152pt.
+ [3 </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_boxplot.pdf> </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_histogram.pdf>]
+<figs/q1_correlation_malignant.pdf, id=143, 505.89pt x 505.89pt>
+File: figs/q1_correlation_malignant.pdf Graphic file (type pdf)
+<use figs/q1_correlation_malignant.pdf>
+Package pdftex.def Info: figs/q1_correlation_malignant.pdf  used on input line 40.
+(pdftex.def)             Requested size: 212.4126pt x 212.4183pt.
+<figs/q1_correlation_benign.pdf, id=144, 505.89pt x 505.89pt>
+File: figs/q1_correlation_benign.pdf Graphic file (type pdf)
+<use figs/q1_correlation_benign.pdf>
+Package pdftex.def Info: figs/q1_correlation_benign.pdf  used on input line 45.
+(pdftex.def)             Requested size: 212.4126pt x 212.4183pt.
+<figs/q1_pairs.pdf, id=145, 505.89pt x 505.89pt>
 File: figs/q1_pairs.pdf Graphic file (type pdf)
 <use figs/q1_pairs.pdf>
 Package pdftex.def Info: figs/q1_pairs.pdf  used on input line 55.
 (pdftex.def)             Requested size: 259.6186pt x 259.62152pt.
-) (/Users/arthurlouis/Downloads/report/questions/2_preparation.tex
-
-LaTeX Warning: Reference `fig:scatterplot' on page 4 undefined on input line 10.
-
-
+ [4 </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_malignant.pdf> </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_correlation_benign.pdf> </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q1_pairs.pdf>]) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/2_preparation.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
@@ -1147,13 +1013,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-[4 </Users/arthurlouis/Downloads/report/figs/q1_pairs.pdf>]
+
 Overfull \hbox (4.33589pt too wide) in paragraph at lines 14--25
  [][] 
  []
-
-
-Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instead on input line 34.
 
 
 Overfull \hbox (13.30676pt too wide) in paragraph at lines 48--60
@@ -1180,47 +1043,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--61
 
  []
 
-[5]
-
-LaTeX Warning: Reference `fig:scatterplot' on page 6 undefined on input line 88.
-
-Package svg Info: Calling Inkscape on input line 93.
-runsystem(inkscape -z -D --export-latex  --file="figs/q2_roc.svg" --export-pdf="q2_roc_svg-tex.pdf" )...executed.
-
-
-Package svg Warning: The export with Inkscape failed for file
-(svg)                `figs/q2_roc.svg'
-(svg)                Troubleshooting: Please check in the log file how
-(svg)                the invocation of Inkscape took place and try to
-(svg)                execute it yourself in the terminal on input line 93.
-
-
-/Users/arthurlouis/Downloads/report/questions/2_preparation.tex:93: Package svg Error: File `q2_roc_svg-tex.pdf' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 ...esvg[width=0.5\textwidth]{figs/q2_roc.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q2_roc_svg-tex.pdf'
-although `figs/q2_roc.svg' was found.
-
-
-/Users/arthurlouis/Downloads/report/questions/2_preparation.tex:93: Package svg Error: File `q2_roc_svg-tex.pdf_tex' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 ...esvg[width=0.5\textwidth]{figs/q2_roc.svg}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/q2_roc_svg-tex.pdf_tex'
-although `figs/q2_roc.svg' was found.
-
-[6]) (/Users/arthurlouis/Downloads/report/questions/3_classification.tex)
+[5] [6]
+<figs/q2_roc.pdf, id=181, 505.89pt x 505.89pt>
+File: figs/q2_roc.pdf Graphic file (type pdf)
+<use figs/q2_roc.pdf>
+Package pdftex.def Info: figs/q2_roc.pdf  used on input line 93.
+(pdftex.def)             Requested size: 236.01561pt x 236.01605pt.
+) (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/questions/3_classification.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 2--13
 
  []
@@ -1250,42 +1079,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--13
 
  []
 
-[7]
+[7 </Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/figs/q2_roc.pdf>] [8]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 14.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 14.
- (/Users/arthurlouis/Downloads/report/main.aux)
+ (/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 14.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 14.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  98003AAE5DB499371E44665FB44382B8;736.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 98003AAE5DB499371E44665FB44382B8;736.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 14.
  ) 
 Here is how much of TeX's memory you used:
- 34045 strings out of 492616
- 654895 string characters out of 6129482
- 767344 words of memory out of 5000000
- 37403 multiletter control sequences out of 15000+600000
+ 34072 strings out of 492616
+ 658504 string characters out of 6129482
+ 768900 words of memory out of 5000000
+ 37427 multiletter control sequences out of 15000+600000
  556050 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,77p,1053b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,12n,77p,1120b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on /Users/arthurlouis/Downloads/report/main.pdf (9 pages, 3051457 bytes).
+Output written on "/Users/arthurlouis/Documents/ULiège/Master/Bloc 1/Q1/High Dimensional Statistics/Projects/P2/report/main.pdf" (10 pages, 3110539 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
